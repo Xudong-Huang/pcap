@@ -62,6 +62,6 @@ path = "examples/savefile.rs"
 name = "getstatistics"
 path = "examples/getstatistics.rs"
 
-[[example]]
-name = "streamlisten"
-path = "examples/streamlisten.rs"
+#[[example]]
+#name = "streamlisten"
+#path = "examples/streamlisten.rs"
