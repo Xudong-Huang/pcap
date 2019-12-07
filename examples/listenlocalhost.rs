@@ -9,6 +9,6 @@ fn main() {
     cap.filter("host 127.0.0.1").unwrap();
 
     while let Ok(packet) = cap.next() {
-    	println!("got packet! {:?}", packet);
+        println!("got packet! {:?}", packet);
     }
 }
